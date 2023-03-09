@@ -1,0 +1,131 @@
+.pagination {
+  margin: 5px;
+  background-color: #5E50A1;
+}
+.searchbar {
+  height: 60px;
+  width: 100%;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  background-color: #ffffff;
+  border: none;
+  border-radius: 4px;
+  margin-bottom: 25px;
+}
+.search-input,
+.search-input:focus {
+  height: 57px;
+  width: 73%;
+  align-self: flex-start;
+  border: none;
+  padding: 0 15px;
+  margin-right: 10px;
+  outline: none;
+}
+.search-icon {
+  color: #9ea0a5;
+}
+.vl {
+  content: "";
+  height: 40px;
+  border: none;
+  border-left: 2px solid #9ea0a5;
+}
+
+@media (min-width: 1024px) {
+  .LihatProfil {
+    width: 200px;
+  }
+}
+
+@media (min-width: 768px) {
+  .LihatProfil {
+    min-width: 150px;
+  }
+}
+
+@media (max-width: 425px) {
+  .LihatProfil {
+    margin-top: 10px;
+  }
+}
+
+@media (max-width: 452px) {
+  .card {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+  }
+}
+
+@media (max-width: 452px) {
+  .lokasi {
+    margin: 135px;
+  }
+}
+
+@media (max-width: 452px) {
+  .skill {
+    margin: 70px;
+  }
+}
+
+/* search */
+.body {
+  background: #d1d5db;
+}
+
+.height {
+  height: 100vh;
+}
+
+.form {
+  position: relative;
+  height: 60px;
+}
+
+.btnSearch {
+  position: absolute;
+  right: 5px;
+  top: 8px;
+  height: 45px;
+  width: 90px;
+  padding-top: 8px;
+}
+
+.sort {
+  position: absolute;
+  right: 110px;
+  top: 12px;
+}
+
+.formSpan {
+  position: absolute;
+  right: 175px;
+  top: 18px;
+  padding: 2px;
+  color: #9ca3af;
+  border-right: 1px solid #d1d5db;
+}
+
+.left-pan {
+  padding-left: 7px;
+}
+
+.left-pan i {
+  padding-left: 10px;
+}
+
+.form-input {
+  height: 55px;
+  text-indent: 33px;
+  border-radius: 10px;
+}
+
+.form-input:focus {
+  box-shadow: none;
+  border: none;
+}

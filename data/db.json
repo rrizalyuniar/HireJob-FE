@@ -1,0 +1,79 @@
+{
+  "workers": [
+    {
+      "name": "Louis Tomlinson",
+      "jobdesk": "Web developer",
+      "place": "jawa timur",
+      "workplace": "Bekasi",
+      "id": "1"
+    },
+    {
+      "name": "Harry Styles update",
+      "jobdesk": "web developer",
+      "workplace": "Tangerang",
+      "place": "jawa timur",
+      "id": "2"
+    },
+    {
+      "name": "Niall Horan",
+      "jobdesk": "Web developer",
+      "place": "jawa timur",
+      "workplace": "Bogor",
+      "id": "3"
+    },
+    {
+      "name": "Liam Payne",
+      "jobdesk": "Web developer",
+      "place": "jawa timur",
+      "workplace": "Jakarta",
+      "id": "4"
+    }
+  ],
+  "portofolio": [
+    {
+      "name": "Reminder App"
+    },
+    {
+      "name": "Hire Job app"
+    }
+  ],
+  "experience": [
+    {
+      "jobdesk": "Enginer",
+      "workplace": "TokoIjo",
+      "date": "July 2019 - January 2020",
+      "desc": " is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. ",
+      "id_user": 1,
+      "id": 1
+    },
+    {
+      "jobdesk": "Enginer",
+      "workplace": "PT. Sehat Selalu",
+      "date": "Januari 2020-Februari 2020",
+      "desc": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vestibulum erat orci, mollis nec gravida sed, ornare quis urna. Curabitur eu lacus fringilla, vestibulum risus at.",
+      "id_user": "2",
+      "id": 2
+    },
+    {
+      "jobdesk": "enginerr",
+      "workplace": "PT Sejahtera",
+      "date": "Janurai",
+      "desc": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vestibulum erat orci, mollis nec gravida sed, ornare quis urna. Curabitur eu lacus fringilla, vestibulum risus at.",
+      "id_user": "2",
+      "id": 3
+    }
+  ],
+  "skills": [
+    {
+      "skill": "Java",
+      "id_user": 1,
+      "id": 1
+    }
+  ],
+  "login": [
+    {
+      "email": "tes@gmail.com",
+      "password": "123"
+    }
+  ]
+}
